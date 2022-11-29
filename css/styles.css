@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriwearther', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', serif;
+    color: #40514E;
+}
+
+hr {
+    height: 10px;
+    border: dotted;
+    border-width: 10px 0 0 0;
+    width: 100px;
+    margin: 100px auto;
+    color:#a1adad;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625em;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
+}
+
+.middle-container {
+    font-weight: bold;
+}
+
+.bottom-container {
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-img1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-img2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.my-pic {
+    width: 20em;
+    margin: 0;
+}
+
+.profile-desc {
+    width: 30em;
+    margin: 50px auto;
+    line-height: 2;
+}
+
+.btn {
+    background-image: linear-gradient(#4cbbbf, #11999e);
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: normal;
+}
+
+.hit-me {
+    margin: 30px auto;
+}
+
+.hit-me-again {
+    width: 40em;
+    margin: 50px auto 80px auto;
+}
+
+.bottom-container {
+    position: relative;
+    padding: 50px;
+    margin: 100px 0 0 0;
+    background-color: #66BFBF;
+}
+
+.credit {
+    margin-top: 50px;
+    color: white;
+}
+
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    margin: 0 20px 50px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
